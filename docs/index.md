@@ -26,5 +26,7 @@ Esta es mi 2a practica de **github**
         - Ejemplo lista no ordenada 3
             - Ejemplo lista no ordenada 4
 
+---
+
 - [x] Ejemplos Hechos 
 - [ ] Paginas aun por hacer
