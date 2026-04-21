@@ -1,0 +1,7 @@
+site_name: My Docs
+site_url: http://local.com
+nav:
+  - Home: index.md
+  - Sobre mi: sobre-mi.md
+  - Aficiones: aficiones.md
+theme: readthedocs 
